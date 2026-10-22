@@ -7,6 +7,7 @@ Frontend Developer | Open-Source Maintainer
 Frontend developer focused on building responsive, intuitive, and accessible web experiences. I learn by shipping real products and currently maintain Marvel Champions Digital, an open-source browser-based game with an active user community. Through this project, I’ve gained hands-on experience improving interfaces, debugging complex issues, managing releases, writing documentation, and turning user feedback into reliable product updates. I translate community feedback into polished interface improvements, reliable fixes, clear documentation, and well-tested releases. I’m pursuing frontend opportunities where I can bring strong product ownership, thoughtful problem-solving, and a user-centered approach.
 
 * 🌍  I'm based in Maryland
+* 🌐  Explore my portfolio at [samdolle.dev](https://samdolle.dev/)
 * ✉️  You can contact me at [sam\_dolle@outlook.com](mailto:sam_dolle@outlook.com)
 * 🚀  I'm currently working on [Marvel Digital Edition- Community Build](http://github.com/sdolle1775/marvel-lcg)
 * 🧠  I'm building React and TypeScript apps, with a focus on accessibility, API integration, and reliable releases
